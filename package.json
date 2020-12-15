@@ -1,0 +1,25 @@
+{
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Github Dark Easy",
+        "path": "./themes/github-dark-easy-color-theme.json",
+        "uiTheme": "vs-dark"
+      }
+    ]
+  },
+  "description": "Modified Github Dark theme for VS Code, easy on the eyes",
+  "displayName": "Github Dark Easy",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "name": "github-dark-easy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mubaidr/Github-Dark-Easy"
+  },
+  "version": "0.0.1"
+}
