@@ -16,10 +16,23 @@
   "engines": {
     "vscode": "^1.40.0"
   },
+  "galleryBanner": {
+    "color": "#1a1e22",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/mubaidr/Github-Dark-Easy",
+  "icon": "icon.png",
+  "keywords": [
+    "github",
+    "dark",
+    "easy",
+    "simple"
+  ],
   "name": "github-dark-easy",
+  "publisher": "mubaidr",
   "repository": {
     "type": "git",
     "url": "https://github.com/mubaidr/Github-Dark-Easy"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
