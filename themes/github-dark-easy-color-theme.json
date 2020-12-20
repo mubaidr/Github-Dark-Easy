@@ -36,8 +36,8 @@
     "editor.foldBackground": "#282e33",
     "editor.foreground": "#e1e4e8",
     "editor.inactiveSelectionBackground": "#3392ff22",
-    "editor.lineHighlightBackground": "#90a0b010",
-    "editor.lineHighlightBorder": "#90a0b000",
+    "editor.lineHighlightBackground": "#80858510",
+    "editor.lineHighlightBorder": "#80858500",
     "editor.selectionBackground": "#3392ff44",
     "editor.selectionHighlightBackground": "#17e5e633",
     "editor.selectionHighlightBorder": "#17e5e600",
@@ -57,8 +57,8 @@
     "editorGutter.modifiedBackground": "#2188ff",
     "editorIndentGuide.activeBackground": "#444d56",
     "editorIndentGuide.background": "#2f363d",
-    "editorLineNumber.activeForeground": "#90a0b0a0",
-    "editorLineNumber.foreground": "#90a0b020",
+    "editorLineNumber.activeForeground": "#808585a0",
+    "editorLineNumber.foreground": "#80858520",
     "editorOverviewRuler.border": "#1b1f23",
     "editorWhitespace.foreground": "#444d56",
     "editorWidget.background": "#1f2428",
@@ -813,13 +813,13 @@
     {
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#90A0B075"
+        "foreground": "#80858575"
       }
     },
     {
       "scope": ["punctuation", "keyword.operator", "meta.brace"],
       "settings": {
-        "foreground": "#90A0B075"
+        "foreground": "#80858575"
       }
     },
     {
@@ -830,7 +830,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#90A0B0"
+        "foreground": "#808585"
       }
     },
     {

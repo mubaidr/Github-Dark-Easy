@@ -17,7 +17,7 @@
     "vscode": "^1.40.0"
   },
   "galleryBanner": {
-    "color": "#1a1e22",
+    "color": "#808585",
     "theme": "dark"
   },
   "homepage": "https://github.com/mubaidr/Github-Dark-Easy",
@@ -34,5 +34,5 @@
     "type": "git",
     "url": "https://github.com/mubaidr/Github-Dark-Easy"
   },
-  "version": "0.0.2"
+  "version": "0.0.3"
 }

@@ -18,12 +18,6 @@ https://marketplace.visualstudio.com/items?itemName=mubaidr.github-dark-easy
   <img src="./screenshots/html.png"/>
 </p>
 
-### JSON
-
-<p style="text-align: center;">
-  <img src="./screenshots/json.png"/>
-</p>
-
 ## Notes
 
 - All credits to the original [Github Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) develepors
